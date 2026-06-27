@@ -122,7 +122,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">🧑‍🤝‍🧑 Skill-Based Team Formation Platform</h3>
       <p align="center">
-        <a href="https://github.com/udayadevi">
+        <a href="https://github.com/udayadevi/skill-based-team-formation">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -137,7 +137,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">🚗 Vehicle Mart</h3>
       <p align="center">
-        <a href="https://github.com/udayadevi">
+        <a href="https://github.com/udayadevi/vehicle-mart">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -254,8 +254,8 @@ me.say_hi()
 <div align="center">
   <i>⭐ If you like my work, consider starring my repositories — it means a lot! ⭐</i>
 </div>
-    
-       
+
+
 
 
 
